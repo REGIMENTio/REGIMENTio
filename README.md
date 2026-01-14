@@ -1,4 +1,4 @@
-## Computer Science student exploring data structures, algorithms, and backend development.  
+## Hello I'm Tanmay Verma , a Computer Science enthusiast/student exploring data structures, algorithms, and backend development.  
 ## Learning in public. Improving one commit at a time.
 
 
