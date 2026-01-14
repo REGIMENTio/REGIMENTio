@@ -1,4 +1,6 @@
-## Hi there 👋
+## Computer Science student exploring data structures, algorithms, and backend development.  
+## Learning in public. Improving one commit at a time.
+
 
 ![Snake animation](https://raw.githubusercontent.com/REGIMENTio/REGIMENTio/output/snake.svg)
 
