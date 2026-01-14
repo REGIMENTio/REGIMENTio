@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Snake animation](https://raw.githubusercontent.com/REGIMENTio/REGIMENTio/output/snake.svg)
+
 <!--
 **REGIMENTio/REGIMENTio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
